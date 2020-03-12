@@ -9,5 +9,5 @@ Steps to run (without docker)
 
 Steps to run (with docker)
 --------------------------
-1. docker build -t <name:tag> .
-2. docker run -d -p <available_host_port>:3000 <name:tag>
+1. docker build -t <<name:tag>> .
+2. docker run -d -p <available_host_port>:3000 <<name:tag>>
