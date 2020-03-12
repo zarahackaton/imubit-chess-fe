@@ -1,6 +1,6 @@
 This front-end app is running on port 3000 since it was created using create-react-app.
 
-You can choose run it on Docker or not.
+You can choose wheter to run it on Docker or not.
 
 Steps to run (without docker)
 -----------------------------
